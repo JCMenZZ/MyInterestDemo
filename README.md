@@ -31,6 +31,8 @@ cn.jcmenzz.tolearn.socketrelated ----> 关于socket相关案例
 ##### com.jclight说明
 com.jclight ----> 该包下存放一些经典算法题目的实现
 
+com.jclight.bigdemo ----> 用来存放大型demo
+
 com.jclight.test ----> 测试用包
 
 com.jclight.test.leetcode ----> 力扣题目测试
